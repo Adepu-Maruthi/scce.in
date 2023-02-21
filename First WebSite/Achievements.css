@@ -1,0 +1,17 @@
+pre{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tab,.tab1
+        {
+            border-color: rgb(226, 125, 169);
+            border-radius: 10px;
+        }
+.size, .size1{
+    font-size: xx-large;
+}
+body{
+        background-image: url('');
+        background-repeat: no-repeat;
+        
+      }
+  
